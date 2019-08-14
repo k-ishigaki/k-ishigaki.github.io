@@ -46,6 +46,11 @@ Kazuki Ishigaki
 ライントレーサ用にCNCで作成したギアボックス．
 いつかFusion360で再設計したい．
 
+## [自作ギヤボックス redesigned by Fusion 360](https://f-l-ats.blogspot.com/2019/08/c96.html)
+
+Fusion 360で再設計したギヤボックス．
+f/atsサークルのC96の本の題材に使用．
+
 ## [認証ありプロキシに対して認証を行う認証なしプロキシの構築スクリプト](https://qiita.com/Splascope/items/740f74efa786afef5d8f)
 
 仕事でプロキシがうっとおしく感じたときに自宅にプロキシ環境をわざわざ作って製作したソフト．
