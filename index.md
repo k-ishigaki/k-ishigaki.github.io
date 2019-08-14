@@ -41,9 +41,9 @@ Kazuki Ishigaki
 
 # Works
 
-## [自作ギアボックス](https://mechatro-life.com/Splascope/b019759e-e22b-4fb5-bf6a-70365aba2e19)
+## [自作ギヤボックス](https://mechatro-life.com/Splascope/b019759e-e22b-4fb5-bf6a-70365aba2e19)
 
-ライントレーサ用にCNCで作成したギアボックス．
+ライントレーサ用にCNCで作成したギヤボックス．
 いつかFusion360で再設計したい．
 
 ## [自作ギヤボックス redesigned by Fusion 360](https://f-l-ats.blogspot.com/2019/08/c96.html)
